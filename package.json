@@ -1,0 +1,17 @@
+{
+  "name": "lighthouse-auth",
+  "version": "1.0.0",
+  "description": "Authentication layer for the Lighthouse API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "perf",
+    "lighthouse",
+    "performance",
+    "node"
+  ],
+  "author": "Matt Stronge",
+  "license": "ISC"
+}
